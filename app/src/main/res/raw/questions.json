@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": ["Berlin", "Madrid", "Paris", "Rome"],
+    "answer": 2
+  },
+  {
+    "question": "What is 2 + 2?",
+    "options": ["3", "4", "5", "6"],
+    "answer": 1
+  },
+  {
+    "question": "Who is the current Prime Minister of India?",
+    "options": ["PV Narasimhan Rao", "Narenda Modi", "Nitish Kumar", "Manmohan Singh"],
+    "answer": 1
+  },
+  {
+    "question": "What product is based on blockchain?",
+    "options": ["Instagram", "Cryptocurrencies", "Google", "Meta"],
+    "answer": 1
+  },
+  {
+    "question": "Blockchain networks are much _____ and deal with no real single point of failure.",
+    "options": ["Popular", "Secure", "Decentralized", "Demanding"],
+    "answer": 2
+  },
+  {
+    "question": "What is square root of 144",
+    "options": ["10", "12", "14", "16"],
+    "answer": 1
+  },
+  {
+    "question": "What is divisible by 2 & 3 is also divisible by?",
+    "options": ["8", "9", "4", "6"],
+    "answer": 3
+  },
+  {
+    "question": "What is the formula od Water?",
+    "options": ["H2O", "H4O", "O2", "O6"],
+    "answer": 0
+  },
+  {
+    "question": "Which is the only even prime number?",
+    "options": ["3", "2", "5", "6"],
+    "answer": 1
+},
+  {
+    "question": "What is the synonym of Dilemma?",
+    "options": ["Predicament", "Easy", "Best", "Accelerated"],
+    "answer": 0
+  }
+]
